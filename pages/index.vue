@@ -5,13 +5,13 @@ const navigation = [
   {
     id: 1,
     to: "/game",
-    label: "Start Game",
+    label: "Get going with my amazing game",
     primary: true,
   },
   {
     id: 2,
     to: "/",
-    label: "Options",
+    label: "bla",
     disabled: true,
   },
   {
